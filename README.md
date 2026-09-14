@@ -99,9 +99,7 @@ Possible future developments include:
 
 ## Project Status
 ### Without the gripper and without assembly
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/d591b1c0-3f1f-4705-8c7c-017de0de3585" />
-
-
+<img width="1080" height="1443" alt="braçooooo" src="https://github.com/user-attachments/assets/e0c2bab3-2957-40b1-a38d-5fe2526b3441" />
 **Development**
 
 The mechanical and electronic architecture is being developed, with the control and kinematics systems planned around encoder-based joint feedback.
