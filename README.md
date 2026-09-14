@@ -6,7 +6,7 @@ The project focuses on developing a compact robotic manipulator with closed-loop
 
 ## Overview
 
-The robotic arm has four degrees of freedom (DOF), providing control over the position and orientation of the end effector.
+The robotic arm has four degrees of freedom 4 (DOF), providing control over the position and orientation of the end effector.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/21e0ab85-6a76-4470-b7a2-4222a7c9ee6b" width="373">
