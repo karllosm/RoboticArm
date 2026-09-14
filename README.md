@@ -98,6 +98,8 @@ Possible future developments include:
 * Higher-resolution joint sensing
 
 ## Project Status
+without the gripper and without assembly
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/1f31e61d-3432-4e7a-b3e2-be5b8fbe8802" />
 
 **Development**
 
