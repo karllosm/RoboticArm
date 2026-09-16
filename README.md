@@ -100,7 +100,7 @@ Possible future developments include:
 ## Project Status
 ### Without the gripper
 <p align="center">
-  <img alt="image" src="https://github.com/user-attachments/assets/7726345a-7cd4-4f6a-919f-d4653a78fc9a"  width="260"/>
+  <img alt="image" src="https://github.com/user-attachments/assets/7726345a-7cd4-4f6a-919f-d4653a78fc9a"  width="373"/>
 </p>
 
 
