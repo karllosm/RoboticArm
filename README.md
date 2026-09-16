@@ -99,7 +99,7 @@ Possible future developments include:
 
 ## Project Status
 ### Without the gripper
-<img width="1197" height="1600" alt="image" src="https://github.com/user-attachments/assets/7726345a-7cd4-4f6a-919f-d4653a78fc9a" height="200px" width=auto/>
+<img width="1197" height="1600" alt="image" src="https://github.com/user-attachments/assets/7726345a-7cd4-4f6a-919f-d4653a78fc9a" width="260px" height="347.5"/>
 
 ### Development
 
